@@ -63,4 +63,5 @@ export class AppComponent {
   getPassword() {
     return this.generatedPassword;
   }
+
 }
